@@ -4,7 +4,7 @@ import {
   KeyboardArrowDownRounded,
   KeyboardArrowUpRounded,
 } from '@material-ui/icons';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 //ascending and descending artan azalan sort
 const orderBy = (countries,value, direction) => {
