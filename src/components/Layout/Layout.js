@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import Head from 'next/head';
 import { useEffect, useState } from "react";
 import { Brightness6Rounded } from "@material-ui/icons";
